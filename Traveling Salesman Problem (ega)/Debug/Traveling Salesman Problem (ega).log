@@ -1,0 +1,236 @@
+﻿Build started 22.11.2014 1:51:11.
+     1>Project "C:\Users\Admin\Documents\Visual Studio 2012\Projects\Traveling Salesman Problem (ega)\Traveling Salesman Problem (ega)\Traveling Salesman Problem (ega).vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ega.cpp main.cpp
+         main.cpp
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(7): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(7): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(8): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(8): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(9): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(9): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(10): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(10): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(15): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(15): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(16): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(16): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(17): error C2061: syntax error : identifier 'vector'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(18): error C2061: syntax error : identifier 'vector'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(19): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(19): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(20): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(20): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(21): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(21): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(22): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(22): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(23): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(23): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(26): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(26): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(27): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(27): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(28): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(28): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(34): error C2146: syntax error : missing ';' before identifier 'TakeAnswer'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(34): warning C4183: 'TakeAnswer': missing return type; assumed to be a member function returning 'int'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(43): error C2061: syntax error : identifier 'vector'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(43): error C2535: 'EGA::EGA(void)' : member function already defined or declared
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(41) : see declaration of 'EGA::EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\main.cpp(43): error C2661: 'EGA::EGA' : no overloaded function takes 2 arguments
+         ega.cpp
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(7): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(7): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(8): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(8): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(9): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(9): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(10): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(10): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(15): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(15): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(16): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(16): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(17): error C2061: syntax error : identifier 'vector'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(18): error C2061: syntax error : identifier 'vector'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(19): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(19): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(20): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(20): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(21): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(21): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(22): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(22): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(23): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(23): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(26): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(26): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(27): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(27): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(28): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(28): error C2238: unexpected token(s) preceding ';'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(34): error C2146: syntax error : missing ';' before identifier 'TakeAnswer'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(34): warning C4183: 'TakeAnswer': missing return type; assumed to be a member function returning 'int'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(43): error C2061: syntax error : identifier 'vector'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(43): error C2535: 'EGA::EGA(void)' : member function already defined or declared
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(41) : see declaration of 'EGA::EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(9): error C2511: 'EGA::EGA(std::vector<_Ty>,int)' : overloaded member function not found in 'EGA'
+                 with
+                 [
+                     _Ty=std::vector<int>
+                 ]
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(59): error C2039: 'RandomCode' : is not a member of 'EGA'
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(82): error C2039: 'SummArr' : is not a member of 'EGA'
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(85): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(89): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(101): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(103): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(113): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(123): error C2511: 'int EGA::Mu(std::vector<_Ty>,std::vector<int>)' : overloaded member function not found in 'EGA'
+                 with
+                 [
+                     _Ty=std::vector<int>
+                 ]
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(132): error C2039: 'MutOneDot' : is not a member of 'EGA'
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(137): error C3861: 'RandomMutant': identifier not found
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(140): error C2374: 'dist' : redefinition; multiple initialization
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(136) : see declaration of 'dist'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(143): error C2446: '<' : no conversion from 'int' to 'std::uniform_int_distribution<_Ty>'
+                 with
+                 [
+                     _Ty=int
+                 ]
+                 Constructor for class 'std::uniform_int_distribution<_Ty>' is declared 'explicit'
+                 with
+                 [
+                     _Ty=int
+                 ]
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(143): error C2088: '<' : illegal for class
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(143): error C3861: 'dist': identifier not found
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(166): error C2039: 'MutTwoDot' : is not a member of 'EGA'
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(171): error C3861: 'RandomMutant': identifier not found
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(184): error C2039: 'RandomMutant' : is not a member of 'EGA'
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(186): error C2039: 'Children' : is not a member of 'EGA'
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(186): error C2065: 'Children' : undeclared identifier
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(186): error C2228: left of '.size' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(193): error C2039: 'CopyCycle' : is not a member of 'EGA'
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(195): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(201): error C2039: 'CrossCycle' : is not a member of 'EGA'
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(222): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(246): error C2039: 'NotVozr' : is not a member of 'EGA'
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(249): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(250): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(253): error C2039: 'AdaptationMatrix' : is not a member of 'EGA'
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(253): error C2065: 'AdaptationMatrix' : undeclared identifier
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(261): error C2039: 'LineRangeSel' : is not a member of 'EGA'
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(268): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(277): error C2039: 'BetaTournSel' : is not a member of 'EGA'
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(6) : see declaration of 'EGA'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(290): error C2065: 'AdaptationMatrix' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(290): error C3861: 'Mu': identifier not found
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(291): error C2065: 'AdaptationMatrix' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(291): error C3861: 'Mu': identifier not found
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(295): error C2065: 'AdaptationMatrix' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(295): error C3861: 'Mu': identifier not found
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(305): error C2065: 'Parents' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(305): error C2065: 'AdaptationMatrix' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(315): error C2065: 'AdaptationMatrix' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(315): error C2065: 'Parents' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(316): error C2065: 'AdaptationMatrix' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(316): error C2065: 'Parents' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(321): error C2065: 'Children' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(321): error C2065: 'Parents' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(327): error C2065: 'Children' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(327): error C2065: 'Parents' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(355): error C2065: 'Mutants' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(355): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(361): error C2065: 'Mutants' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(361): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(372): error C2065: 'Mutants' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(372): error C2065: 'Children' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(375): error C2065: 'Parents' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(383): error C2143: syntax error : missing ';' before '}'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(384): error C2065: 'Parents' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(388): error C2556: 'std::string EGA::TakeAnswer(void)' : overloaded function differs only by return type from 'int EGA::TakeAnswer(void)'
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(34) : see declaration of 'EGA::TakeAnswer'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(388): error C2371: 'EGA::TakeAnswer' : redefinition; different basic types
+                 c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.h(34) : see declaration of 'EGA::TakeAnswer'
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(389): error C2065: 'AdaptationMatrix' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(389): error C2065: 'Parents' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(389): error C2228: left of '.size' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(390): error C2065: 'AdaptationMatrix' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(390): error C2065: 'Parents' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(390): error C2228: left of '.size' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(391): error C2065: 'AdaptationMatrix' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(391): error C2065: 'Parents' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(391): error C2228: left of '.size' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(392): error C2065: 'Parents' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(394): error C2065: 'Parents' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(394): error C2228: left of '.size' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(395): error C2065: 'y' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(397): error C2065: 'AdaptationMatrix' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(397): error C2065: 'Parents' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(397): error C2228: left of '.size' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(399): error C2065: 'AdaptationMatrix' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(399): error C2065: 'Parents' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2012\projects\traveling salesman problem (ega)\traveling salesman problem (ega)\ega.cpp(399): fatal error C1003: error count exceeds 100; stopping compilation
+         Generating Code...
+     1>Done Building Project "C:\Users\Admin\Documents\Visual Studio 2012\Projects\Traveling Salesman Problem (ega)\Traveling Salesman Problem (ega)\Traveling Salesman Problem (ega).vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.00
